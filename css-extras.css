@@ -22,3 +22,12 @@
     transition: all 0.2s linear;
     border-radius: 50px;
 }
+
+
+.text-purple {
+	color: #6b4fbb;
+}
+
+.bg-purple {
+	background: #6b4fbb;
+}
